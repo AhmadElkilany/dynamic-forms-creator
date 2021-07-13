@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-forms-creator",
+  "version": "1.0.0",
+  "description": "a web application that a non technical user can use to create dynamic forms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelloo/dynamic-forms-creator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelloo/dynamic-forms-creator/issues"
+  },
+  "homepage": "https://github.com/Kelloo/dynamic-forms-creator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
