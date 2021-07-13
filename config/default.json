@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://kello123:kello123@task-cluster.tcets.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
