@@ -10,6 +10,10 @@ const FormSchema = new Schema({
     type: String,
     required: true,
   },
+  image: {
+    data: Buffer,
+    contentType: String,
+  },
   fields: {
     type: [String],
     required: true,
